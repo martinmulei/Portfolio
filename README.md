@@ -1,50 +1,65 @@
-👋 Hi, I'm Baraka  
-🎓 BBA (Accounting) Student | Aspiring Financial & Data Analyst  
-📊 Certified in Google Data Analytics & Microsoft Power BI  
+# 👋 Martin Mulei | Aspiring Financial & Data Analyst
 
-🧠 Passionate about transforming financial and business data into actionable insights using **SQL, BigQuery, Power BI, and KPIs**.  
-🚀 Currently building data analytics and financial dashboards for my professional portfolio.  
+🎓 **BBA (Accounting) Student | Google Data Analytics & Microsoft Power BI Certified**  
+📊 Transforming **financial and business data into actionable insights** through SQL, BigQuery, Power BI, and KPI-driven analysis.  
 
----
-
-## 🛠️ Tech Stack & Skills
-
-**Programming & Query Languages**  
-![SQL](https://img.shields.io/badge/SQL-Expert-green) 
-![BigQuery](https://img.shields.io/badge/BigQuery-Intermediate-blue)  
-![Excel](https://img.shields.io/badge/Excel-Advanced-yellow)
-
-**Data & Analytics**  
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Advanced-orange)  
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-Powerful-blueviolet)  
-![KPI Design](https://img.shields.io/badge/KPIs-Business_Insight-red)  
-![EDA](https://img.shields.io/badge/EDA-Exploratory-lightgrey)  
-
-**Tools & Platforms**  
-![Power BI](https://img.shields.io/badge/Power_BI-Certified-blue)  
-![Google Data Analytics](https://img.shields.io/badge/Google_Analytics-Certified-green)  
-![Tableau](https://img.shields.io/badge/Tableau-Basic-lightblue)  
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-Basic-orange)  
+I focus on building **executive-level dashboards and financial analytics solutions** that enable data-driven decision-making for businesses.
 
 ---
 
-## 📊 Featured Projects
+## 💼 Professional Overview
 
-On the way
+- **Core Focus:** Financial performance analysis, KPI design, business intelligence dashboards  
+- **Data Expertise:** SQL, BigQuery, Excel, Power BI, Tableau, Looker Studio  
+- **Analytical Strengths:** Data cleaning & transformation, exploratory data analysis, trend & variance analysis, KPI & profitability insights  
+
+*I aim to bridge finance and analytics by translating raw business data into executive-ready insights.*
 
 ---
 
-## 🌱 What I'm Currently Working On
-- Deepening my analytical SQL & BigQuery skills  
-- Designing and answering business KPIs  
-- Building end-to-end financial analytics projects  
-- Improving data storytelling and insight communication  
+## 🛠️ Technical Skills
+
+| Category | Skills | Level |
+|----------|--------|-------|
+| Programming & Query Languages | SQL | Expert |
+|  | BigQuery | Intermediate |
+|  | Excel | Advanced |
+| Data & Analytics | Data Cleaning & Transformation | Advanced |
+|  | Data Visualization | Executive dashboards |
+|  | KPI & Financial Metric Design | Business insight driven |
+|  | Exploratory Data Analysis (EDA) | Structured analysis |
+| Tools & Platforms | Power BI | Certified |
+|  | Google Data Analytics | Certified |
+|  | Tableau | Basic |
+|  | Looker Studio | Basic |
+
+---
+
+## 📊 Featured Projects (Placeholders)
+
+> Projects demonstrate real-world **financial analytics, KPI tracking, and executive dashboards**.
+
+1. **Financial Performance Dashboard** – Executive summary of revenue, profitability, and KPIs  
+2. **Revenue & Profitability Analysis** – SQL & Power BI analysis of company performance trends  
+3. **Customer Segmentation & Loyalty Analytics** – Business insights through transactional data  
+
+*(More projects will be added as portfolio grows.)*
+
+---
+
+## 🌱 Current Focus
+
+- Advanced SQL & BigQuery for financial datasets  
+- Designing **strategic KPIs** for executive decision-making  
+- Building **end-to-end financial analytics projects** for portfolio and hiring showcase  
 
 ---
 
 ## 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/martin-mwanzi-2923b4334
 
-) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/BarakaMulei)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:mulei3837@gmail.com)
 
-> "Turning financial and business data into insights that drive smarter decisions."
+---
+
+*This portfolio README is designed to present financial & data analytics expertise in a professional, executive-style format suitable for hiring managers and recruiters.*
