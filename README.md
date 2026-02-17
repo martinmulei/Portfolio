@@ -1,57 +1,56 @@
-# 👋 Martin Mulei | Aspiring Financial & Data Analyst
+# 👋 Martin Mulei
 
-🎓 **BBA (Accounting) Student | Google Data Analytics & Microsoft Power BI Certified**  
-📊 Transforming **financial and business data into actionable insights** through SQL, BigQuery, Power BI, and KPI-driven analysis.  
+🎓 **BBA (Accounting) Student | Aspiring Financial & Data Analyst**  
+📊 **Google Data Analytics Certified | Microsoft Power BI Certified**  
 
-I focus on building **executive-level dashboards and financial analytics solutions** that enable data-driven decision-making for businesses.
-
----
-
-## 💼 Professional Overview
-
-- **Core Focus:** Financial performance analysis, KPI design, business intelligence dashboards  
-- **Data Expertise:** SQL, BigQuery, Excel, Power BI, Tableau, Looker Studio  
-- **Analytical Strengths:** Data cleaning & transformation, exploratory data analysis, trend & variance analysis, KPI & profitability insights  
-
-*I aim to bridge finance and analytics by translating raw business data into executive-ready insights.*
+I turn **financial and business data into actionable insights**. I specialize in building **executive-level dashboards, KPI solutions, and data-driven financial analytics** using **SQL, BigQuery, and Power BI**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Skills | Level |
-|----------|--------|-------|
-| Programming & Query Languages | SQL | Expert |
-|  | BigQuery | Intermediate |
-|  | Excel | Advanced |
-| Data & Analytics | Data Cleaning & Transformation | Advanced |
-|  | Data Visualization | Executive dashboards |
-|  | KPI & Financial Metric Design | Business insight driven |
-|  | Exploratory Data Analysis (EDA) | Structured analysis |
-| Tools & Platforms | Power BI | Certified |
-|  | Google Data Analytics | Certified |
-|  | Tableau | Basic |
-|  | Looker Studio | Basic |
+**Certified & Applied Tools:**  
+
+![SQL](https://img.shields.io/badge/SQL-Expert-green)  
+![BigQuery](https://img.shields.io/badge/BigQuery-Intermediate-blue)  
+![Excel](https://img.shields.io/badge/Excel-Advanced-yellow)  
+![Power BI](https://img.shields.io/badge/Power_BI-Certified-blue)  
+![Google Data Analytics](https://img.shields.io/badge/Google_Analytics-Certified-green)  
+
+**Other Tools & Skills:**  
+
+![Tableau](https://img.shields.io/badge/Tableau-Basic-lightblue)  
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Basic-orange)  
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-Advanced-orange)  
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-Powerful-blueviolet)  
+![KPI Design](https://img.shields.io/badge/KPIs-Business_Insight-red)  
+![EDA](https://img.shields.io/badge/EDA-Exploratory-lightgrey)  
 
 ---
 
-## 📊 Featured Projects (Placeholders)
+## 📊 Featured Projects
 
-> Projects demonstrate real-world **financial analytics, KPI tracking, and executive dashboards**.
+> Executive-style interactive project tiles
 
-1. **Financial Performance Dashboard** – Executive summary of revenue, profitability, and KPIs  
-2. **Revenue & Profitability Analysis** – SQL & Power BI analysis of company performance trends  
-3. **Customer Segmentation & Loyalty Analytics** – Business insights through transactional data  
+<div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
-*(More projects will be added as portfolio grows.)*
+**<div style='border:1px solid #E0E0E0; padding:12px; border-radius:8px; width:250px;'>Financial Performance Dashboard<br>- Revenue, profitability & KPI summary<br></div>**
+
+**<div style='border:1px solid #E0E0E0; padding:12px; border-radius:8px; width:250px;'>Revenue & Profitability Analysis<br>- SQL & Power BI analysis of company trends<br></div>**
+
+**<div style='border:1px solid #E0E0E0; padding:12px; border-radius:8px; width:250px;'>Customer Segmentation & Loyalty Analytics<br>- Insights from transactional & loyalty data<br></div>**
+
+</div>
+
+*(More tiles/projects coming soon)*
 
 ---
 
-## 🌱 Current Focus
+## 🌱 Currently Focused On
 
-- Advanced SQL & BigQuery for financial datasets  
+- Advanced **SQL & BigQuery** for financial datasets  
 - Designing **strategic KPIs** for executive decision-making  
-- Building **end-to-end financial analytics projects** for portfolio and hiring showcase  
+- Building **end-to-end financial analytics projects** for portfolio showcase  
 
 ---
 
@@ -62,4 +61,4 @@ I focus on building **executive-level dashboards and financial analytics solutio
 
 ---
 
-*This portfolio README is designed to present financial & data analytics expertise in a professional, executive-style format suitable for hiring managers and recruiters.*
+*This portfolio README is structured to reflect executive-level analytics expertise with an interactive, dashboard-style layout.*
