@@ -32,25 +32,28 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 ## 📊 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-<!-- Completed Project Tile -->
-<a href="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png">
-  <img src="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png" width="300" alt="Sales & Profitability Dashboard"/>
-</a>
+  <!-- Completed Project -->
+  <a href="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png" 
+     style="text-decoration: none;">
+    <div style="background-color:#1F77B4; color:white; padding:20px; width:220px; text-align:center; border-radius:8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); font-weight:bold;">
+      Sales & Profitability Dashboard
+    </div>
+  </a>
 
-<!-- Coming Soon Tiles -->
-<a href="#">
-  <img src="https://img.shields.io/badge/Revenue_Profitability-Coming_Soon-lightgrey" width="300" alt="Revenue & Profitability Coming Soon"/>
-</a>
+  <!-- Coming Soon Projects -->
+  <div style="background-color:#6c757d; color:white; padding:20px; width:220px; text-align:center; border-radius:8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); font-weight:bold;">
+    Revenue & Profitability (Coming Soon)
+  </div>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Customer_Loyalty_Analytics-Coming_Soon-lightgrey" width="300" alt="Customer Loyalty Coming Soon"/>
-</a>
+  <div style="background-color:#6c757d; color:white; padding:20px; width:220px; text-align:center; border-radius:8px; box-shadow: 0px 4px 6px rgba(0,0,0,0.1); font-weight:bold;">
+    Customer Loyalty Analytics (Coming Soon)
+  </div>
 
 </div>
 
-*Click the tiles to view dashboards. More projects coming soon!*
+<p style="margin-top:10px; font-style:italic;">Click the buttons to view dashboards. More projects coming soon!</p>
 
 
 ---
