@@ -45,6 +45,12 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 Comprehensive financial performance analysis evaluating revenue growth, margin dynamics, and regional contribution to profitability.
 
+<p align="center">
+  <a href="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard.png">
+    <img src="https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Dashboard.png" width="800" alt="Sales & Profit Optimization Dashboard"/>
+  </a>
+</p>
+
 ### Project Resources
 
 - 📄 **Project Documentation (PDF)**  
@@ -75,4 +81,4 @@ Comprehensive financial performance analysis evaluating revenue growth, margin d
 
 ---
 
-*This README is structured to reflect executive-level financial analytics expertise with interactive, dashboard-style layout for hiring managers.*
+*Showcasing strategic financial analysis, actionable insights, and interactive dashboards to demonstrate enterprise-level decision-making and business impact.*
