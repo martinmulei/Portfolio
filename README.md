@@ -1,8 +1,10 @@
-# 👋 Martin Mulei
+<h1 align="center">Martin Mulei</h1>
 
-**BBA (Accounting) | Certified in Google Data Analytics & Microsoft Power BI |**  
+<p align="center">
+  BBA (Accounting)Student • Google Data Analytics Certified • Microsoft Power BI Certified
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&color=1F3A8A&center=true&vCenter=true&width=500&lines=Financial+Analyst" alt="Typing animation"/>
 </p>
 
@@ -26,34 +28,18 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 **Accounting & Finance Skills**  
 ![Cost Accounting](https://img.shields.io/badge/Cost_Accounting-red) ![Financial Accounting](https://img.shields.io/badge/Financial_Accounting-red) ![IFRS](https://img.shields.io/badge/IFRS-blue) ![Business Statistics](https://img.shields.io/badge/Business_Statistics-blue) ![Economics](https://img.shields.io/badge/Economics-blue)
 
-*All academic & technical knowledge anchored at Technical University of Mombasa.*
 
 ---
 
 ## 📊 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <!-- Completed Project Tile -->
-  <a href="https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png" style="text-decoration: none;">
-    <div style="background-color:#1F77B4; color:white; padding:30px; width:250px; text-align:center; border-radius:12px; box-shadow: 0px 6px 10px rgba(0,0,0,0.15); font-weight:bold; transition: transform 0.2s;">
-      Sales & Profitability Dashboard
-    </div>
-  </a>
+### 📈 Sales & Profit Optimization Dashboard  
+**Tools:** SQL • Power BI • Financial Modeling  
 
-  <!-- Coming Soon Tiles -->
-  <div style="background-color:#6c757d; color:white; padding:30px; width:250px; text-align:center; border-radius:12px; box-shadow: 0px 6px 10px rgba(0,0,0,0.15); font-weight:bold; opacity:0.7;">
-    Revenue & Profitability (Coming Soon)
-  </div>
+Analyzed revenue performance, margin trends, and regional profitability to identify growth and cost optimization opportunities.
 
-  <div style="background-color:#6c757d; color:white; padding:30px; width:250px; text-align:center; border-radius:12px; box-shadow: 0px 6px 10px rgba(0,0,0,0.15); font-weight:bold; opacity:0.7;">
-    Customer Loyalty Analytics (Coming Soon)
-  </div>
-
-</div>
-
-<p style="margin-top:15px; font-style:italic;">Click the buttons to view dashboards. More projects coming soon!</p>
-
+[View Dashboard](https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png)
 
 
 ---
