@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=28&color=1F3A8A&center=true&vCenter=true&width=500&lines=Financial+Analyst" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=24&color=1F3A8A&center=true&vCenter=true&width=600&lines=+Revenue+Growth+%3E+25%25;Profit+Margin+%3E+18%25;Customer+Retention+%3E+85%25" alt="Finance Achievements Animation"/>
 </p>
+
 
 ---
 
