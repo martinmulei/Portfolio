@@ -33,13 +33,26 @@ Skilled in **SQL, R, Excel, and business intelligence tools**, I transform finan
 
 ## 📊 Featured Projects
 
+---
 
-### 📈 Sales & Profit Optimization Dashboard  
-**Tools:** SQL • Power BI • Financial Modeling  
+## 📊 Sales & Profit Optimization Dashboard  
 
-Analyzed revenue performance, margin trends, and regional profitability to identify growth and cost optimization opportunities.
+**Tech Stack:** SQL | Power BI | Financial Modeling  
 
-[View Dashboard](https://raw.githubusercontent.com/martinmulei/sales-profitability-dashboard-powerbi/main/screenshots/Dashboard.png)
+Comprehensive financial performance analysis evaluating revenue growth, margin dynamics, and regional contribution to profitability.
+
+### Project Resources
+
+- 📄 **Project Documentation**  
+  [View Business Report](https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Tailwind_Project_Documentation)
+
+- 📊 **Power BI Dashboard (.pbix)**  
+  [Download Dashboard File](https://github.com/martinmulei/sales-profitability-dashboard-powerbi/blob/main/Tailwind_Traders_Sales.pbix)
+
+- 💻 **Full Project Repository**  
+  [Explore Complete Project](https://github.com/martinmulei/sales-profitability-dashboard-powerbi)
+
+---
 
 
 ---
