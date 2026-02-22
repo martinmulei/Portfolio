@@ -1,18 +1,20 @@
-<p align="center">
-  <img src="martin.png" 
-       alt="Martin Mulei" 
-       width="300" 
-       style="border-radius:50%; 
-              border: 5px solid #1F3A8A;
-              box-shadow: 0 0 40px rgba(31, 58, 138, 0.5);" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="martin.png" 
+           alt="Martin Mulei" 
+           width="200" 
+           style="border-radius:50%; 
+                  border: 5px solid #1F3A8A;
+                  box-shadow: 0 0 40px rgba(31, 58, 138, 0.5);" />
+    </td>
+    <td style="padding-left:20px; vertical-align: middle;">
+      <h1>Martin Mulei</h1>
+      <p>BBA (Accounting) Student • Google Data Analytics Certified • Microsoft Power BI Certified</p>
+    </td>
+  </tr>
+</table>
 
-
-<h1 align="center">Martin Mulei</h1>
-
-<p align="center">
-  BBA (Accounting)Student • Google Data Analytics Certified • Microsoft Power BI Certified
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&size=24&color=1F3A8A&center=true&vCenter=true&width=600&lines=+Revenue+Growth+%3E+25%25;Profit+Margin+%3E+18%25;Customer+Retention+%3E+85%25" alt="Finance Achievements Animation"/>
