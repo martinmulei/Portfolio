@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="martin.png" alt="Martin Mulei" width="300" height="300" />
+  <img src="martin.png" 
+       alt="Martin Mulei" 
+       width="300" 
+       style="border-radius:50%; 
+              border: 5px solid #1F3A8A;
+              box-shadow: 0 0 40px rgba(31, 58, 138, 0.5);" />
 </p>
+
 
 <h1 align="center">Martin Mulei</h1>
 
