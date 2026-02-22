@@ -53,8 +53,6 @@ Comprehensive financial performance analysis evaluating revenue growth, margin d
 
 ---
 
----
-
 ## 🌱 Currently Focused On
 
 - Advanced **SQL & BigQuery** for financial datasets  
